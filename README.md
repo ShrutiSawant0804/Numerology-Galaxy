@@ -49,7 +49,7 @@ Numerology-Galaxy/
 
 ## 🎨 UI Preview
 
-![Galaxy UI Preview](https://i.ibb.co/YQfX4Dc/galaxy-stars.gif)
+![Galaxy UI Preview](Sreenshot 2025-06-23 143013.png);
 
 ---
 
